@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(50, 146, 175);
+}
+
+.back a:hover a:active{
+    background-color: red;
+}
+
+.back a{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f71515;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+}
+
+h1{
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    display: inline-block;
+    border-radius: 10%;
+    border: 3px outset gray;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(45, 0, 128);
+}
+
+ul li{
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+p{
+    font-size: 35px;
+    color:rgb(250, 115, 219);
+    font-family: fantasy;
+}
+
+.subtitle p{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(0, 0, 0);
+    display:inline-block;
+    background: aquamarine;
+}
+
+.inside li{
+    font-size: 20px;
+    font-family: sans-serif, "Roboto";
+}
